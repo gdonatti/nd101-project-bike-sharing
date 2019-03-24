@@ -21,7 +21,7 @@ git clone http://github.com/gdonatti/nd101-project-bike-sharing.git
 Install required Python packages
 ```
 cd nd101-project-bike-sharing
-conda install --file Requirements.txt
+conda install --file requirements.txt
 ```
 
 Launch the project Jupyter Notebook
